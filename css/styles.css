@@ -252,12 +252,16 @@ body{
         margin: auto;
     }
 
+    .nav-link{
+        font-size: 30px;
+    }
+
     .testimonial-text{
-        font-size: 15px;
+        font-size: 30px;
     }
 
     .testimonial-specification{
-        font-size: 20px;
+        font-size: 25px;
     }
 
     .testimonial-image{
