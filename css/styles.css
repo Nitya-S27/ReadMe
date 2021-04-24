@@ -209,7 +209,7 @@ body{
     font-size: 2.5rem;
 }
 
-/* Footer */
+/*------------------------------------ Footer------------------------------------- */
 
 #footer{
     background-color: #352044;
@@ -231,13 +231,14 @@ body{
     padding-top: 20px;
     color: #836a94;
     font-family: 'Comfortaa', cursive;
-    font-size: 12px;
+    font-size: 15px;
 }
 
 .logo:hover{
     background-color: plum ;
 }
  
+
 
 /* --------------------------------Media Query------------------------- */
 
