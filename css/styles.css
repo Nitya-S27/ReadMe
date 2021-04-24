@@ -255,16 +255,24 @@ body{
     .nav-link{
         font-size: 30px;
     }
-
+    
+    .dropdown-item{
+        font-size: 30px;
+    }
+     
+    .features-text{
+        font-size: 30px;
+    }
+    
     .testimonial-text{
         font-size: 30px;
     }
 
     .testimonial-specification{
-        font-size: 25px;
+        font-size: 30px;
     }
 
     .testimonial-image{
-        width: 20%;
+        width: 30%;
     }
 }
